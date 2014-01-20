@@ -89,6 +89,7 @@ Brn,Amf
 Brn,Sd
 Bsd,Ldm
 Bsmz,Hvsm
+Bsmz,Hvsn
 Bv,Hk
 Bzl,Gs
 Hbzm,Sdt
@@ -228,6 +229,7 @@ Hvl,Apd
 Hvl,Bnn
 Hvs,Brn
 Hvsm,Hvs
+Hvsn,Hvs
 Hvsp,Hvs
 Hvsp,Hor
 Hwzb,Hlms
@@ -321,7 +323,7 @@ Rsd,Bgn
 Rsn,Wdn
 Rsw,Dt
 Rtb,Rtd
-Rtd,Hfd
+Rtd,Shl
 Rtn,Rta
 Rtn,Rtd
 Rtst,Rtz
@@ -420,6 +422,7 @@ Wsm,Bf
 Wt,Rm
 Wtv,Dvn
 Wv,Hry
+Wv,Hr
 Ww,Atn
 Www,Ww
 Ypb,Vb

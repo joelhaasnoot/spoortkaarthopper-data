@@ -66,6 +66,7 @@ Bdg,Apn
 Bdm,Stm
 Bdpb,Zlw
 Bet,Ehb
+Bet,Ehs
 Bf,Wfm
 Bgn,Rb
 Bhdv,Gnd
@@ -81,8 +82,10 @@ Bmn,Zp
 Bmr,Vlb
 Bn,Hgl
 Bnc,Ltn
+Bnz,Ltn
 Bnk,Db
 Bnn,Bnc
+Bnc,Bnz
 Bp,Gk
 Brd,Rlb
 Brn,Amf
@@ -135,12 +138,14 @@ Ed,Wf
 Edn,Mtr
 Egh,Cvm
 Ehb,Ehv
+Ehs,Ehv
 Ehv,Hmbv
 Ehv,Gp
 Eml,Hd
 Emnz,Emn
 Es,Ese
 Esd,Es
+Esk,Es
 Ese,Gbr
 Est,Za
 Est,Nml
@@ -181,10 +186,12 @@ Hd,Ns
 Hdb,Gbg
 Hde,Wz
 Hdg,Vwd
+Hdg,Fwd
 Hdrz,Hdr
 Hdrz,Ana
 Hfd,Nvp
 Hgl,Esd
+Hgl,Esk
 Hgl,Hglo
 Hglg,Hgl
 Hglo,Odz
@@ -285,7 +292,8 @@ Na,Emnz
 Ndb,Bsmz
 Nh,Hb
 Nkk,Pt
-Nm,Nmd
+Nm,Nmgo
+Nmgo,Nmd
 Nm,Nmh
 Nmh,Mmlh
 Nml,Nm
@@ -311,6 +319,8 @@ Pt,Eml
 Rai,Asdz
 Asb,Rai
 Rat,Nvd
+Rat,Nvdw
+Nvdw,Nvd
 Rb,Kbd
 Rh,Dr
 Rl,Ltv
@@ -404,6 +414,9 @@ Vst,Gvm
 Vsv,Tbg
 Vtn,Wd
 Vwd,Zww
+Vwd,Dwe
+Fwd,Zww
+Fwd,Dwe
 Wad,Wadn
 Wadn,Bsk
 Wc,Nmd
@@ -451,3 +464,4 @@ Zv,Did
 Zvb,Odb
 Zwd,Brd
 Zww,Bp
+Dwe,Bp

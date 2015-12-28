@@ -5,10 +5,10 @@
 This repository contains the raw OpenStreetMap data for all passenger railway lines in the Netherlands. When combined with [Spoorkaarthopper](https://github.com/joelhaasnoot/spoorkaarthopper), you can automagically preprender paths between points on railway lines to be able to reuse later in a variety of applications.
 
 ## Releases
-Check the "Releases" link above to find the latest spoorkaarthopper output to form a Dutch railwaymap. Or click here for the __[latest version, 1.5](https://github.com/joelhaasnoot/spoortkaarthopper-data/releases/download/v1.5/output-1.5-20130104.zip)__
+Check the "Releases" link above to find the latest spoorkaarthopper output to form a Dutch railway map. Or click here for the __[latest version](https://github.com/joelhaasnoot/spoortkaarthopper-data/releases/latest)__.
 
 ## Source
-The original shapefile data is copyright Prorail 2013-2014 and is available No Rights Reserved. The shapefile is called "spoorhart" - this represents the "middle" of the tracks. That appears to not always be true: this data was converted to OSM, but then joined and fixed so that there's always just one path between stations. 
+The original shapefile data is copyright ProRail 2013-2014 and is available No Rights Reserved. The shapefile is called "spoorhart" - this represents the "middle" of the tracks. That appears to not always be true: this data was converted to OSM, but then joined and fixed so that there's always just one path between stations. 
 
 ## Other files
 The folder *routing-input* contains two other files that are important inputs for the output of Spoorkaarthopper (these are the ones used for my version):

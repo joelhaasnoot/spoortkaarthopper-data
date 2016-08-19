@@ -156,6 +156,7 @@ Gd,Wad
 Gd,Ztmo
 Gd,Nwk
 Gdg,Gd
+Mrb,Vhp
 Gdk,Vhp
 Gdk,Mrb
 Gdm,Bsd
@@ -217,6 +218,7 @@ Hno,Rat
 Hnp,Kmw
 Hon,Rsn
 Hor,Utm
+Bhv,Utm
 Hr,Akm
 Hrl,Hrlk
 Hrl,Hb
@@ -384,13 +386,18 @@ Ut,Utzl
 Ut,Utlr
 Ut,Uto
 Utl,Htn
+Utln,Htn
 Utlr,Utt
 Utm,Ut
 Uto,Hor
 Uto,Bhv
 Utt,Vtn
 Ut,Utl
+Ut,Utln
 Ut,Bnk
+Ut,Utvr
+Utvr,Bnk
+Utvr,Utln
 Vb,Gv
 Vd,Rl
 Vdg,Vdw
